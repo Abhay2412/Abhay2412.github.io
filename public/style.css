@@ -14,7 +14,7 @@ body {
   /* header */
   
   .header {
-    background-color: rgb(94, 3, 129);
+    background-color: #304D6D;
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
     position: fixed;
     width: 100%;
@@ -26,13 +26,13 @@ body {
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: rgb(94, 3, 129);
+    background-color: #304D6D;
   }
   
   .header li a {
     display: block;
     padding: 20px 20px;
-    border-right: 1px solid rgb(94, 3, 129);
+    border-right: 1px solid #304D6D;
     text-decoration: none;
   }
   
@@ -151,17 +151,17 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #506283;
+    background-color: #A7CCED;
     color: #000207;
 
 }
 
 h2,.white{
-    color: #fff;
+    color: #D66853;
 }
 
 a{
-    color: #c23737;
+    color: #FCD29F;
     text-decoration: none;
 }
 /* section 1 */
@@ -212,13 +212,13 @@ a{
 /* animations / utilities */
 .section-2 a:hover{
     font-size: 1.3rem;
-    color: #fff;
+    color: #f4f4f4;
     cursor: pointer;
     transition: 0.2s;
 }
 
 .section-1 a:hover{
-    color: #fff;
+    color: #f4f4f4;
     cursor: pointer;
     transition: 0.3s;
 }
